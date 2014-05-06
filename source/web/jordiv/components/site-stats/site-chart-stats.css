@@ -1,0 +1,36 @@
+h2 {
+    padding: 20px 0px 10px 0px;
+}
+
+h3 {
+    padding: 0px 0px 20px 0px;
+}
+
+.activity-stats-filters div {
+    float: left;
+    margin-right: 30px;
+    margin-top: 10px;
+}
+
+.activity-stats-filters select {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 30px;
+}
+
+.scroll_checkboxes {
+    height: 100px;
+    width: 200px;
+    overflow-y: auto;
+    border: 1px solid #ccc;
+}
+
+.scroll_checkboxes label {
+    display: block;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.activity-stats-filters label.highlight {
+    background-color: #6CA5CE;
+}

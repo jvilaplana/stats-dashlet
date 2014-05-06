@@ -1,0 +1,61 @@
+.stats-row {
+   padding: 0.3em;
+   clear: both;
+}
+
+.stats-label {
+   float: left;
+   font-weight: bold;
+   text-align: right;
+   width: 100px;
+   margin-right: 20px;
+}
+
+.stats-value {
+   margin-left: 4.5em;
+}
+
+.stats-site {
+    margin-top: 10px;
+}
+
+div.scrollable {
+    overflow: auto;
+}
+
+div.right {
+    text-align: right;
+    width: 90%;
+}
+
+table.stats_sites, table.stats_sites_compact {
+    border: medium none;
+    width: 100%;
+}
+
+table.stats_sites thead, table.stats_sites_compact thead {
+    font-weight: bold;
+}
+
+table.stats_sites tr, table.stats_sites_compact tr {
+}
+
+table.stats_sites td, table.stats_sites_compact td {
+    border-bottom: 1px dashed #D9D9D9;
+}
+
+table.stats_sites td {
+    padding: 10px;
+}
+
+table.stats_sites_compact td {
+    padding: 1px;
+}
+
+.stats {
+
+}
+
+.stats .scrollableList {
+   padding: 8px 8px;
+}

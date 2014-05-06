@@ -1,0 +1,17 @@
+<page>
+    <title>Stats</title>
+    <title-id>page.stats.title</title-id>
+    <description>Stats for a given site</description>
+    <description-id>page.stats.description</description-id>
+    <template-instance>site-chart-stats</template-instance>
+    <authentication>user</authentication>
+    <components>
+      <component>
+         <region-id>title</region-id>
+         <url>/components/title/simple-title</url>
+         <properties>
+            <title>TEST 1 COLUMN</title>
+         </properties>
+      </component>
+   </components>
+</page>
